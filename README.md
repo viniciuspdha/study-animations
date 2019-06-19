@@ -3,3 +3,4 @@ Repositório criado para estudo de animação web, utilizando os plugins Lottie,
 
 #### Workshop RCA Digital
 Workshop lecionado a equipe da RCA Digital, com o intuito de compartilhar conhecimento dos plugins, apresentar aplicações do estudo e nivelamento técnico da equipe.
+Branch `workshop`
