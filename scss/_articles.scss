@@ -1,0 +1,38 @@
+[data-component="articles"] {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    align-items: center;
+    padding: 20px;
+
+    i {
+        width: 150px;
+        display: block;
+        margin: 0 auto;
+
+        &#animaDesign {
+            margin-top: -20px;
+            padding-bottom: 20px;
+        }
+    }
+
+    strong {
+        margin: 15px 0;
+        display: block;
+    }
+
+    .row {
+        align-items: stretch;
+        display: flex;
+    }
+
+    .collumn {
+        margin: 15px 10px;
+        padding: 80px 20px;
+        flex: 1;
+        border-radius: 10px;
+        text-align: center;
+        background: #fcf6f8;
+        box-shadow: $box-shadow;
+    }
+}
